@@ -14,7 +14,7 @@ categories: projects
 This project studies the approach of detecting [DoS/DDoS](https://en.wikipedia.org/wiki/Denial-of-service_attack) attacks using an entroy-based detection method. Experiments were conducted in an SDN environment, virtually using [Mininet](http://mininet.org/). Read the full paper <a target="_blank" href="/files/SDN_based_Detection_Method_against_DoS_DDoS_attacks_in_an_IoT_environment_Abdul_Adhim.pdf" title="">here</a>.
 
 #### Keywords
-IoT, SDN (Software Defined Network), DoS, DDoS, Entropy-based detection
+IoT, SDN (Software-Defined Network), DoS, DDoS, Entropy-based detection
 
 ### Goals
 
@@ -27,7 +27,7 @@ The key contributions in this paper are listed in the following:
 
 ### Key technology/points
 
-* SDN [(Software-Based Network)](https://opennetworking.org/sdn-definition/)
+* SDN [(Software-Defined Network)](https://opennetworking.org/sdn-definition/)
   * A network architecture that is realized by virtualizing its components. SDN is structured in a way that its network is centralized, and can be centrally controlled with software applications.
 * Entropy-based detection
 
