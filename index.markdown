@@ -8,6 +8,8 @@ layout: home
 <!-- <img style="float: right;" src="./images/memoji.png"> -->
 <!-- ![image alt <](./images/memoji.png) -->
 
+<!-- NOTE: text align to left, when screen is smaller depends on Jekyll config I think. -->
+
 <style>
   .columns {
     Width: 100%;
@@ -15,6 +17,8 @@ layout: home
 
   .column {
     width: 100%;
+    /* word-wrap: break-word;
+    max-width: 500px; */
   }
 
   @media (min-width: 48em) {
@@ -35,23 +39,16 @@ layout: home
 </style>
 
 <div class="columns">
-  <div class="column">
-    <div class="img-container">
-      <!-- Block parent element -->
-      <img src="./images/memoji.png" alt="drawing" width="200" />
-    </div>
-    <!-- <div style="width: 300; height: 300;">
-            <img src="./images/memoji.png" width="50%" height="50%">
-        </div> -->
+  <div class="column img-container" >
+    <img src="./images/memoji.png" alt="drawing" width="200" />
   </div>
   <div class="column">
     <span style="font-size:1.5em;">
-      Hi, I am Abdul Adhim!
+      <p>Hi, I am Abdul Adhim!</p>
     </span>
-    <br>
     <span style="font-size:1.2em;">
-      I am a computer engineering student based in Tokyo, Japan. Learning about fields like network system, system
-      engineering, and programming.
+      <p>I am a computer engineering student based in Tokyo, Japan. Learning about fields like network system, system
+      engineering, and programming.</p>
     </span>
   </div>
 </div>
