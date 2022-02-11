@@ -4,6 +4,8 @@ title: Interests
 permalink: /interests/
 ---
 
+I am primarily interested in [information security](https://securityintelligence.com/articles/future-of-cybersecurity-2031/). But occasionally tinker around [CGI](https://www.artstation.com/) as a hobby. Check out my previous CGI [work](2019/07/23/cgi.html).
+
 {% for category in site.categories %}
 {% if category[0] == "interests" %}
   <div>
