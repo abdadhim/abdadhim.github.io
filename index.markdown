@@ -36,24 +36,42 @@ layout: home
     .img-container {
       text-align: center;
     }
+
+    .noBorder {
+        border:none !important;
+    }
 </style>
 
 <div class="columns">
-  <div class="column img-container">
+  <div class="column img-container" style="text-align: center;">
     <img src="./images/memoji.png" alt="drawing" width="200" />
+    <br>
+    <br>
   </div>
   <div class="column">
-    <span style="font-size:1.5em;">
-      <p>Hi, I am Abdul Adhim!</p>
-    </span>
-    <span style="font-size:1.2em;">
-      <p>I am a computer engineering student based in Tokyo, Japan. Learning about fields like network system, system
-        engineering, and programming.</p>
-      <span style="font-size:0.6em; color:#C3C3C3;">
-        <p>Latest featured work : <a href="/projects/2022/01/10/sdn-ddos-entropy.html" title="" style="color:#C3C3C3;">Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT environment</a></p>
-      </span>
-    </span>
+    <div style="max-width: 450px; margin: 0 auto !important; float: none !important;">
+          <span style="font-size:1.5em;">
+            <p>Hi, I am Abdul Adhim!</p>
+          </span>
+          <span style="font-size:1.2em;">
+            <p>I am a computer engineering student based in Tokyo, Japan. Learning about fields like network system,
+              system
+              engineering, and programming.</p>
+            <span style="font-size:0.6em; color:#C3C3C3;">
+              <p>Latest featured work : <a href="/projects/2022/01/10/sdn-ddos-entropy.html" title=""
+                  style="color:#C3C3C3;">Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT
+                  environment</a></p>
+            </span>
+          </span>
+    </div>
   </div>
 </div>
 
 <br>
+
+<!-- 
+<table width="100" style="border:0px;">
+  <tr>
+    <td>a</td>
+  </tr>
+</table> -->
