@@ -39,7 +39,7 @@ layout: home
 </style>
 
 <div class="columns">
-  <div class="column img-container" >
+  <div class="column img-container">
     <img src="./images/memoji.png" alt="drawing" width="200" />
   </div>
   <div class="column">
@@ -48,7 +48,10 @@ layout: home
     </span>
     <span style="font-size:1.2em;">
       <p>I am a computer engineering student based in Tokyo, Japan. Learning about fields like network system, system
-      engineering, and programming.</p>
+        engineering, and programming.</p>
+      <span style="font-size:0.6em; color:#C3C3C3;">
+        <p>Latest featured work : <a href="/projects/2022/01/10/sdn-ddos-entropy.html" title="" style="color:#C3C3C3;">Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT environment</a></p>
+      </span>
     </span>
   </div>
 </div>

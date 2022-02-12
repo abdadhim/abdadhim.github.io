@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SDN-based Detection Method against DoS/DDoS attacks in an IoT environment"
+title:  "Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT environment"
 date:   2022-01-10 14:19:31 +0900
 categories: projects
 ---
