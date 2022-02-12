@@ -69,9 +69,5 @@ layout: home
 
 <br>
 
-<!-- 
-<table width="100" style="border:0px;">
-  <tr>
-    <td>a</td>
-  </tr>
-</table> -->
+<!-- max-width + centering -->
+<!-- https://www.codegrepper.com/code-examples/css/max+width+and+centering -->
