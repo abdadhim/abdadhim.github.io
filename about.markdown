@@ -46,10 +46,10 @@ permalink: /about/
         <div style="max-width: 450px; margin: 0 auto !important; float: none !important;">
             <p>
                 Abdul Adhim is a computer engineering student and is passionate about information security.
-                Adhim loves learning and understanding the nitty-gritty of what makes a system secured, and all the approaches into protecting and attacking a computer system. His enthusiasm for information security helped complete his recent project/research he did in <a href="/projects/2022/01/10/sdn-ddos-entropy.html" title="">Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT environment</a>.
+                Adhim loves learning and understanding the nitty-gritty of what makes a system secure, and all the approaches in protecting and attacking a computer system. His enthusiasm for information security helped him complete his recent project/research he did in <a href="/projects/2022/01/10/sdn-ddos-entropy.html" title="">Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT environment</a>.
             </p>
             <p>
-                He believes in accepting people of different walks in life and to treat everyone as fairly as necessary. And that adequate and articulate communication goes a long way towards succeeding in life.
+                He believes in accepting people of different walks of life and treating everyone as fairly as necessary. And that adequate and articulate communication goes a long way towards succeeding in life.
             </p>
             <p>
                 Adhim is currently honing his understanding in the area of network security. He <a href="/interests/2021/12/28/resources.html" title="">does practices and reads books</a> around this field.
