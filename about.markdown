@@ -52,12 +52,13 @@ permalink: /about/
                 He believes in accepting people of different walks of life and treating everyone as fairly as necessary. And that adequate and articulate communication goes a long way towards succeeding in life.
             </p>
             <p>
-                Adhim is currently honing his understanding in the area of network security. He <a href="/interests/2021/12/28/resources.html" title="">does practices and reads books</a> around this field.
+                Adhim is currently honing his understanding in the area of network security. He <a href="/activities/2021/12/28/resources.html" title="">does practices and reads books</a> around this field.
             </p>
         </div>
     </div>
 </div>
 
+<h2>Contacts</h2>
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Useful Resources I Use"
 date:   2021-12-28 14:19:31 +0900
-categories: interests
+categories: activities
 ---
 
 My primary interest is networking / information security. The list below is based around that. I hope this could help you to get off on the right foot. And especially for those who just started learning in this field.
