@@ -51,7 +51,7 @@ layout: home
   <div class="column">
     <div style="max-width: 450px; margin: 0 auto !important; float: none !important;">
           <span style="font-size:1.5em;">
-            <p>Hi, I am Abdul Adhim!</p>
+            <p>Hi, I am Abdul Adhim! this is a test 777</p>
           </span>
           <span style="font-size:1.2em;">
             <p>I am a computer engineering student based in Tokyo, Japan. Learning about fields like network system,
