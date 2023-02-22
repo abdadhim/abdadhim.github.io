@@ -55,7 +55,7 @@ layout: default
             <p>Hi, I am Abdul Adhim!</p>
           </span>
           <span style="font-size:1.2em;">
-            <p>I am an aspiring tech enthusiast, graduated with a bachelor’s in computer engineering. Currently looking to understand AI, security and cloud technology.</p>
+            <p>I am an aspiring security engineer, graduated with a bachelor’s in computer engineering currently improving my knowledge of AI, security, and cloud technology.</p>
             <span style="font-size:0.7em; color:#C3C3C3;">
               <p>Last updated: 21 Feb 2023.</p>
             </span>
@@ -93,7 +93,7 @@ layout: default
     <img src="./images/contacts/telegram.png" title="Telegram" width="30"/> &emsp;
   </a>
   <a target="_blank" href="https://wa.me/6281234428985">
-    <img src="./images/contacts/whatsapp.png" title="Whatsapp" width="30"/>
+    <img src="./images/contacts/whatsapp.png" title="WhatsApp" width="30"/>
   </a>
   </p>
 </div>

@@ -45,20 +45,43 @@ permalink: /about/
     <div class="column">
         <div style="max-width: 450px; margin: 0 auto !important; float: none !important;">
             <p>
-                Abdul Adhim is a computer engineering student and is passionate about information security.
-                Adhim loves learning and understanding the nitty-gritty of what makes a system secure, and all the approaches in protecting and attacking a computer system. His enthusiasm for information security helped him complete his recent project/research he did in <a href="/projects/2022/01/10/sdn-ddos-entropy.html" title="">Entropy-based Detection Method against DoS/DDoS attacks in an SDN-IoT environment</a>.
+                Hi. I usually go by Adhim (uh-deem). I am interested in all things artificial intelligence, security, and cloud computing.
             </p>
             <p>
-                He believes in accepting people of different walks of life and treating everyone as fairly as necessary. And that adequate and articulate communication goes a long way towards succeeding in life.
+                I have lived in Japan (where I did my Bachelor’s in Computer Engineering at Toyo University), and Malaysia (where I grew up). I have now relocated to Indonesia. In my free time, I <a target="_blank" href="https://www.runtastic.com/user/DXLLM4Q3G4V25YU9">run</a> and I <a target="_blank" href="https://www.goodreads.com/review/list/163029428?shelf=read">read</a>.
             </p>
             <p>
-                Adhim is currently honing his understanding in the area of network security. He <a href="/activities/2021/12/28/resources.html" title="">does practices and reads books</a> around this field.
+                I am still at an early stage of my career. I practice patience and deliberately strive to be consistent to excel at my endeavor. I have internalized that real success takes time and effort. I live by a quote by a Greek philosopher named Epictetus:
+                <blockquote>
+                “Nothing great comes into being all at once, for that is not the case even with a bunch of grapes or a fig. If you tell me now, ‘I want a fig,’ I’ll reply, ‘That takes time.”
+                </blockquote>
+            </p>
+            <p>
+                I am currently honing my understanding in the areas of AI, security, and cloud computing. Check out what I’m up to: <a href="/activities">Activities</a>.
             </p>
         </div>
     </div>
 </div>
 
-<h2>Contacts</h2>
+<h3>Contacts</h3>
+<div style="text-align: center;">
+  <p>Want to get in touch? Contact me through these!</p>
+  <br>
+  <p>
+  <a href="mailto: abdul.adhim277@gmail.com">
+    <img src="/images/contacts/email.png" title="Email" width="30"/>
+  </a> &emsp; 
+  <a target="_blank" href="https://www.linkedin.com/in/abdul-adhim">
+    <img src="/images/contacts/linkedin.png" title="LinkedIn" width="30"/>
+  </a>&emsp;
+  <a target="_blank" href="https://t.me/abdadhim">
+    <img src="/images/contacts/telegram.png" title="Telegram" width="30"/> &emsp;
+  </a>
+  <a target="_blank" href="https://wa.me/6281234428985">
+    <img src="/images/contacts/whatsapp.png" title="WhatsApp" width="30"/>
+  </a>
+  </p>
+</div>
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
