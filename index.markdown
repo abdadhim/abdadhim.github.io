@@ -57,7 +57,7 @@ layout: default
           <span style="font-size:1.2em;">
             <p>I am an aspiring security engineer, graduated with a bachelor’s in computer engineering currently improving my knowledge of AI, security, and cloud technology.</p>
             <span style="font-size:0.7em; color:#C3C3C3;">
-              <p>Last updated: 05 Jun 2023.</p>
+              <p>Last updated: 09 Jun 2023.</p>
             </span>
           </span>
     </div>
